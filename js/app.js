@@ -1,4 +1,4 @@
 /**
  * Created by robmoore on 12/4/15.
  */
-var app = angular.module('calendarApp', []);
+var app = angular.module('productApp', []);
